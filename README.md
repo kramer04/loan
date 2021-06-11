@@ -7,4 +7,4 @@ loan calculations
 A window working on Ubuntu to make calculations on loan
 
 
-![loan](https://user-images.githubusercontent.com/29018157/121682733-bd171100-cabc-11eb-9fd2-886b7191d20d.png)
+![loan](https://user-images.githubusercontent.com/29018157/121683229-5e9e6280-cabd-11eb-8386-1e625c7311bf.png)
